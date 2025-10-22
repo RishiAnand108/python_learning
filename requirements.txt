@@ -1,0 +1,9 @@
+numpy
+pandas
+bs4
+flask
+streamlit
+scikit-learn
+statsmodels
+seaborn
+pickles
